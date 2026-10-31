@@ -1,0 +1,5076 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 26
+/Kids [ 4 0 R 13 0 R 19 0 R 25 0 R 31 0 R 37 0 R 43 0 R 49 0 R 55 0 R 61 0 R 67 0 R 73 0 R 79 0 R 85 0 R 91 0 R 97 0 R 103 0 R 109 0 R 115 0 R 121 0 R 127 0 R 133 0 R 139 0 R 145 0 R 151 0 R 157 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5778
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 722.5039 cm
+Q
+q
+1 0 0 1 48.51969 664.5039 cm
+q
+BT 1 0 0 1 0 35 Tm 120.7091 0 Td 29 TL /F2 23 Tf .090196 .211765 .364706 rg (MACHINE LEARNING &) Tj  T* -56.85599 0 Td (ADVANCED MACHINE LEARNING) Tj T* -63.85311 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 636.5039 cm
+q
+.294118 .333333 .388235 rg
+BT 1 0 0 1 0 5 Tm /F1 11 Tf 16 TL 77.63361 0 Td (25 Practical Programs \227 Complete Python Code and Run Instructions) Tj T* -77.63361 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 608.1575 cm
+Q
+q
+1 0 0 1 85.03937 446.1575 cm
+q
+.090196 .211765 .364706 rg
+n 0 162 425.1969 -18 re f*
+.968627 .976471 .988235 rg
+n 0 144 425.1969 -144 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 150 Tm (Practical range) Tj T* ET
+BT 1 0 0 1 113.7165 150 Tm (Topics) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 132 Tm (1\2264) Tj T* ET
+BT 1 0 0 1 113.7165 132 Tm (Decision Tree) Tj T* ET
+BT 1 0 0 1 6 114 Tm (5) Tj T* ET
+BT 1 0 0 1 113.7165 114 Tm (Cross-Validation \(LOOCV\)) Tj T* ET
+BT 1 0 0 1 6 96 Tm (6) Tj T* ET
+BT 1 0 0 1 113.7165 96 Tm (Naive Bayes) Tj T* ET
+BT 1 0 0 1 6 78 Tm (7\2269) Tj T* ET
+BT 1 0 0 1 113.7165 78 Tm (Support Vector Machine \(SVM\)) Tj T* ET
+BT 1 0 0 1 6 60 Tm (10\22611) Tj T* ET
+BT 1 0 0 1 113.7165 60 Tm (Logistic and Linear Regression) Tj T* ET
+BT 1 0 0 1 6 42 Tm (12\22616) Tj T* ET
+BT 1 0 0 1 113.7165 42 Tm (K-Means and DBSCAN) Tj T* ET
+BT 1 0 0 1 6 24 Tm (17\22621) Tj T* ET
+BT 1 0 0 1 113.7165 24 Tm (Principal Component Analysis \(PCA\)) Tj T* ET
+BT 1 0 0 1 6 6 Tm (22\22625) Tj T* ET
+BT 1 0 0 1 113.7165 6 Tm (Linear Discriminant Analysis \(LDA\)) Tj T* ET
+q
+1 J
+1 j
+.721569 .760784 .8 RG
+.4 w
+n 0 162 m 425.1969 162 l S
+n 0 0 m 425.1969 0 l S
+n 0 0 m 0 162 l S
+n 425.1969 0 m 425.1969 162 l S
+n 0 144 m 425.1969 144 l S
+n 0 126 m 425.1969 126 l S
+n 0 108 m 425.1969 108 l S
+n 0 90 m 425.1969 90 l S
+n 0 72 m 425.1969 72 l S
+n 0 54 m 425.1969 54 l S
+n 0 36 m 425.1969 36 l S
+n 0 18 m 425.1969 18 l S
+n 107.7165 0 m 107.7165 162 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 417.811 cm
+Q
+q
+1 0 0 1 48.51969 395.811 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (How to use this guide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 363.811 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9 Tf 13 TL (Every practical has its own imports, complete code, and a function call at the end. Copy the code for the practical you need) Tj T* (into a separate .py file, save it, and run it. The code is intentionally repeated so each practical can run independently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 341.811 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Software setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 321.811 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 9.6 Tm /F3 6.4 Tf 8 TL (python --version) Tj T* (python -m pip install numpy pandas matplotlib scikit-learn) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 289.811 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F1 9 Tf 0 0 0 rg (Use Python 3.9 or newer if possible. If your system uses the command ) Tj /F2 9 Tf (python3) Tj /F1 9 Tf ( instead of ) Tj /F2 9 Tf (python) Tj /F1 9 Tf (, replace python with) Tj T* (python3 in the run commands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 267.811 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Run a practical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 207.811 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 49.6 Tm /F3 6.4 Tf 8 TL (1. Open VS Code / IDLE / PyCharm.) Tj T* (2. Create a new Python file, e.g. practical_01.py.) Tj T* (3. Copy the complete code for that practical from this PDF.) Tj T* (4. Save the file.) Tj T* (5. Open the terminal in that file's folder.) Tj T* (6. Run: python practical_01.py) Tj T* (7. For graph-based practicals, a Matplotlib window will open. Close it to continue.) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 185.811 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (CSV files needed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 140.811 cm
+q
+BT 1 0 0 1 0 30 Tm -0.033699 Tw 13 TL /F1 9 Tf 0 0 0 rg (Practical 1 and 4: ) Tj /F2 9 Tf (diabetes.csv) Tj /F1 9 Tf ( with target column ) Tj /F2 9 Tf (label) Tj /F1 9 Tf (. Practical 7: ) Tj /F2 9 Tf (Social_Network_Ads.csv) Tj /F1 9 Tf ( with ) Tj /F2 9 Tf (Age) Tj /F1 9 Tf (, ) Tj /F2 9 Tf (EstimatedSalary) Tj /F1 9 Tf (,) Tj T* 0 Tw (and ) Tj /F2 9 Tf (Purchased) Tj /F1 9 Tf (. Practical 11: ) Tj /F2 9 Tf (Salary.csv) Tj /F1 9 Tf ( with ) Tj /F2 9 Tf (years_of_experience) Tj /F1 9 Tf ( and ) Tj /F2 9 Tf (salary) Tj /F1 9 Tf (. Keep each CSV in the same folder as the) Tj T* (Python file. The other practicals use datasets generated or loaded from scikit-learn.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 118.811 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Important exam note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 73.81102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30 Tm /F1 9 Tf 13 TL (The practical sheet specifies some dataset filenames and columns but does not provide the CSV files. You must use the) Tj T* (dataset supplied by your institute and check its exact column names. For small synthetic datasets, accuracy values can vary) Tj T* (if you change the random_state or split.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F1-1 16 0 R
+/F2 9 0 R
+/F2-0 17 0 R
+/F2-1 18 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3813
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Decision Tree Classifier on diabetes.csv \(maximum depth = 3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 712.3701 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Train a Decision Tree using every column except label, fit on the complete dataset, limit the depth to 3, and draw the) Tj T* (tree.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 684.3701 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset requirement:) Tj /F1 8 Tf ( Place diabetes.csv beside the Python file. It must contain the columns pregnant, glucose, bp, skin, insulin, bmi,) Tj T* (pedigree, age, and label. The target column must be named label.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 662.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 370.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 281.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_01\(\):) Tj T* (    df = pd.read_csv\("diabetes.csv"\)) Tj T* (    X = df.drop\("label", axis=1\)) Tj T* (    y = df["label"]) Tj T*  T* (    model = DecisionTreeClassifier\(max_depth=3, random_state=42\)) Tj T* (    model.fit\(X, y\)  # Complete dataset used for training) Tj T*  T* (    plt.figure\(figsize=\(18, 9\)\)) Tj T* (    plot_tree\(model, feature_names=X.columns, class_names=["0", "1"],) Tj T* (              filled=True, rounded=True\)) Tj T* (    plt.title\("Decision Tree \227 Diabetes Dataset \(max_depth=3\)"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_01\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 357.8661 cm
+Q
+q
+1 0 0 1 48.51969 329.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_01.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_01.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F1-1 22 0 R
+/F2 9 0 R
+/F2-0 23 0 R
+/F2-1 24 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3659
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Compare Decision Tree and SVM on the Iris dataset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Train Decision Tree and SVM classifiers on Iris and print their test accuracies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 386.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 289.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_02\(\):) Tj T* (    iris = load_iris\(\)) Tj T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        iris.data, iris.target, test_size=0.2, random_state=42,) Tj T* (        stratify=iris.target) Tj T* (    \)) Tj T*  T* (    dt = DecisionTreeClassifier\(random_state=42\)) Tj T* (    svm = SVC\(kernel="rbf"\)) Tj T*  T* (    dt.fit\(X_train, y_train\)) Tj T* (    svm.fit\(X_train, y_train\)) Tj T*  T* (    print\("Decision Tree Accuracy:", accuracy_score\(y_test, dt.predict\(X_test\)\)\)) Tj T* (    print\("SVM Accuracy:", accuracy_score\(y_test, svm.predict\(X_test\)\)\)) Tj T*  T* (practical_02\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 373.8661 cm
+Q
+q
+1 0 0 1 48.51969 345.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_02.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_02.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F1-1 28 0 R
+/F2 9 0 R
+/F2-0 29 0 R
+/F2-1 30 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 3917
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 726.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F2 14 Tf 18 TL (Compare two Decision Trees on Iris \(max leaf nodes vs minimum samples) Tj T* (per leaf\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 707.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Build two Iris Decision Trees with max_leaf_nodes=8 and min_samples_leaf=5, then compare their accuracies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 690.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 668.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 352.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 305.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_03\(\):) Tj T* (    iris = load_iris\(\)) Tj T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        iris.data, iris.target, test_size=0.2, random_state=42,) Tj T* (        stratify=iris.target) Tj T* (    \)) Tj T*  T* (    tree_max_leaf = DecisionTreeClassifier\(max_leaf_nodes=8, random_state=42\)) Tj T* (    tree_min_sample = DecisionTreeClassifier\(min_samples_leaf=5, random_state=42\)) Tj T*  T* (    tree_max_leaf.fit\(X_train, y_train\)) Tj T* (    tree_min_sample.fit\(X_train, y_train\)) Tj T*  T* (    print\("Accuracy \(max_leaf_nodes=8\):",) Tj T* (          accuracy_score\(y_test, tree_max_leaf.predict\(X_test\)\)\)) Tj T* (    print\("Accuracy \(min_samples_leaf=5\):",) Tj T* (          accuracy_score\(y_test, tree_min_sample.predict\(X_test\)\)\)) Tj T*  T* (practical_03\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 339.8661 cm
+Q
+q
+1 0 0 1 48.51969 311.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_03.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_03.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 33 0 R
+/F1-1 34 0 R
+/F2 9 0 R
+/F2-0 35 0 R
+/F2-1 36 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 3808
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Compare Decision Tree and Logistic Regression on diabetes.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Train Decision Tree and Logistic Regression models on diabetes.csv and compare test accuracy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 697.3701 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset requirement:) Tj /F1 8 Tf ( Place diabetes.csv beside the Python file and ensure the target column is named label. The code uses an 80/20) Tj T* (train-test split.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 675.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 359.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 305.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_04\(\):) Tj T* (    df = pd.read_csv\("diabetes.csv"\)) Tj T* (    X = df.drop\("label", axis=1\)) Tj T* (    y = df["label"]) Tj T*  T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        X, y, test_size=0.2, random_state=42, stratify=y) Tj T* (    \)) Tj T*  T* (    dt = DecisionTreeClassifier\(random_state=42\)) Tj T* (    lr = LogisticRegression\(max_iter=2000\)) Tj T*  T* (    dt.fit\(X_train, y_train\)) Tj T* (    lr.fit\(X_train, y_train\)) Tj T*  T* (    print\("Decision Tree Accuracy:", accuracy_score\(y_test, dt.predict\(X_test\)\)\)) Tj T* (    print\("Logistic Regression Accuracy:", accuracy_score\(y_test, lr.predict\(X_test\)\)\)) Tj T*  T* (practical_04\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 346.8661 cm
+Q
+q
+1 0 0 1 48.51969 318.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_04.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_04.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F1-1 40 0 R
+/F2 9 0 R
+/F2-0 41 0 R
+/F2-1 42 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 4061
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Leave-One-Out Cross-Validation \(LOOCV\) using a Decision Tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 712.3701 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Create 100 samples with 5 features and a binary target. Evaluate a Decision Tree using Leave-One-Out) Tj T* (Cross-Validation and print every iteration's result and the mean accuracy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 695.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 673.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 325.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 337.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_05\(\):) Tj T* (    X, y = make_classification\() Tj T* (        n_samples=100, n_features=5, n_informative=3,) Tj T* (        n_redundant=0, n_classes=2, random_state=42) Tj T* (    \)) Tj T*  T* (    loo = LeaveOneOut\(\)) Tj T* (    model = DecisionTreeClassifier\(random_state=42\)) Tj T* (    scores = []) Tj T*  T* (    for iteration, \(train_index, test_index\) in enumerate\(loo.split\(X\), start=1\):) Tj T* (        X_train, X_test = X[train_index], X[test_index]) Tj T* (        y_train, y_test = y[train_index], y[test_index]) Tj T*  T* (        model.fit\(X_train, y_train\)) Tj T* (        prediction = model.predict\(X_test\)) Tj T* (        score = accuracy_score\(y_test, prediction\)) Tj T* (        scores.append\(score\)) Tj T* (        print\(f"Iteration {iteration}: Accuracy = {score:.0f}"\)) Tj T*  T* (    print\("Average LOOCV Accuracy:", np.mean\(scores\)\)) Tj T*  T* (practical_05\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 312.8661 cm
+Q
+q
+1 0 0 1 48.51969 284.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_05.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_05.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 45 0 R
+/F1-1 46 0 R
+/F2 9 0 R
+/F2-0 47 0 R
+/F2-1 48 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 3671
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Gaussian Naive Bayes on the Breast Cancer dataset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 712.3701 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load the sklearn breast cancer dataset, split it into training and testing sets, train Gaussian Naive Bayes, and predict) Tj T* (test labels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 695.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 673.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 381.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 281.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_06\(\):) Tj T* (    data = load_breast_cancer\(\)) Tj T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        data.data, data.target, test_size=0.2, random_state=42,) Tj T* (        stratify=data.target) Tj T* (    \)) Tj T*  T* (    model = GaussianNB\(\)) Tj T* (    model.fit\(X_train, y_train\)) Tj T* (    predictions = model.predict\(X_test\)) Tj T*  T* (    print\("Predicted labels:", predictions\)) Tj T* (    print\("Actual labels:   ", y_test\)) Tj T* (    print\("Accuracy:", accuracy_score\(y_test, predictions\)\)) Tj T*  T* (practical_06\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 368.8661 cm
+Q
+q
+1 0 0 1 48.51969 340.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_06.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_06.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 51 0 R
+/F1-1 52 0 R
+/F2 9 0 R
+/F2-0 53 0 R
+/F2-1 54 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 4055
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Linear and RBF Support Vector Classifiers on Social_Network_Ads.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 712.3701 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Use Age and EstimatedSalary to predict Purchased. Train linear and RBF SVC models using a 30% test split and) Tj T* (compare accuracy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 684.3701 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset requirement:) Tj /F1 8 Tf ( Place Social_Network_Ads.csv beside the Python file. It must contain Age, EstimatedSalary, and Purchased. UserID) Tj T* (and Gender are not used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 662.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 322.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 329.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_07\(\):) Tj T* (    df = pd.read_csv\("Social_Network_Ads.csv"\)) Tj T* (    X = df[["Age", "EstimatedSalary"]]) Tj T* (    y = df["Purchased"]) Tj T*  T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        X, y, test_size=0.30, random_state=42, stratify=y) Tj T* (    \)) Tj T*  T* (    scaler = StandardScaler\(\)) Tj T* (    X_train_scaled = scaler.fit_transform\(X_train\)) Tj T* (    X_test_scaled = scaler.transform\(X_test\)) Tj T*  T* (    linear_svc = SVC\(kernel="linear", C=1.0\)) Tj T* (    rbf_svc = SVC\(kernel="rbf", C=1.0, gamma="scale"\)) Tj T*  T* (    for name, model in [\("Linear SVC", linear_svc\), \("RBF SVC", rbf_svc\)]:) Tj T* (        model.fit\(X_train_scaled, y_train\)) Tj T* (        prediction = model.predict\(X_test_scaled\)) Tj T* (        print\(name, "Accuracy:", accuracy_score\(y_test, prediction\)\)) Tj T*  T* (practical_07\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 309.8661 cm
+Q
+q
+1 0 0 1 48.51969 281.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_07.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_07.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 57 0 R
+/F1-1 58 0 R
+/F2 9 0 R
+/F2-0 59 0 R
+/F2-1 60 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 4013
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 528.9884 21.25984 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SVC on the Breast Cancer dataset with result visualization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Train an SVC on all 30 breast cancer features and visualize classification results with a confusion matrix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 322.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 353.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_08\(\):) Tj T* (    data = load_breast_cancer\(\)) Tj T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        data.data, data.target, test_size=0.2, random_state=42,) Tj T* (        stratify=data.target) Tj T* (    \)) Tj T*  T* (    scaler = StandardScaler\(\)) Tj T* (    X_train = scaler.fit_transform\(X_train\)) Tj T* (    X_test = scaler.transform\(X_test\)) Tj T*  T* (    model = SVC\(kernel="rbf", C=1.0, gamma="scale"\)) Tj T* (    model.fit\(X_train, y_train\)) Tj T* (    predictions = model.predict\(X_test\)) Tj T*  T* (    print\("SVC Accuracy:", accuracy_score\(y_test, predictions\)\)) Tj T* (    ConfusionMatrixDisplay.from_predictions\() Tj T* (        y_test, predictions, display_labels=data.target_names,) Tj T* (        cmap="Blues") Tj T* (    \)) Tj T* (    plt.title\("SVC \227 Breast Cancer Confusion Matrix"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_08\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 309.8661 cm
+Q
+q
+1 0 0 1 48.51969 281.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_08.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_08.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+59 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 63 0 R
+/F1-1 64 0 R
+/F2 9 0 R
+/F2-0 65 0 R
+/F2-1 66 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 4674
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (SVC on the Iris dataset with result visualization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Train an SVC to classify the three Iris species and visualize the test results in a 2D PCA view.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 234.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 441.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_09\(\):) Tj T* (    data = load_iris\(\)) Tj T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        data.data, data.target, test_size=0.2, random_state=42,) Tj T* (        stratify=data.target) Tj T* (    \)) Tj T*  T* (    scaler = StandardScaler\(\)) Tj T* (    X_train_scaled = scaler.fit_transform\(X_train\)) Tj T* (    X_test_scaled = scaler.transform\(X_test\)) Tj T*  T* (    model = SVC\(kernel="rbf", C=1.0, gamma="scale"\)) Tj T* (    model.fit\(X_train_scaled, y_train\)) Tj T* (    predictions = model.predict\(X_test_scaled\)) Tj T*  T* (    print\("SVC Accuracy:", accuracy_score\(y_test, predictions\)\)) Tj T*  T* (    # Reduce test data to 2D only for a simple result visualization.) Tj T* (    pca = PCA\(n_components=2\)) Tj T* (    X_test_2d = pca.fit_transform\(X_test_scaled\)) Tj T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    for class_id, class_name in enumerate\(data.target_names\):) Tj T* (        mask = y_test == class_id) Tj T* (        plt.scatter\(X_test_2d[mask, 0], X_test_2d[mask, 1],) Tj T* (                    label=f"Actual {class_name}", marker="o"\)) Tj T* (        pred_mask = predictions == class_id) Tj T* (        plt.scatter\(X_test_2d[pred_mask, 0], X_test_2d[pred_mask, 1],) Tj T* (                    label=f"Predicted {class_name}", marker="x"\)) Tj T* (    plt.xlabel\("Principal Component 1"\)) Tj T* (    plt.ylabel\("Principal Component 2"\)) Tj T* (    plt.title\("Iris SVC \227 Actual and Predicted Test Classes \(PCA view\)"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_09\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 221.8661 cm
+Q
+q
+1 0 0 1 48.51969 193.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_09.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_09.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+65 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+67 0 obj
+<<
+/Contents 68 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 69 0 R
+/F1-1 70 0 R
+/F2 9 0 R
+/F2-0 71 0 R
+/F2-1 72 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 4142
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Logistic Regression for customer churn prediction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 712.3701 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Use the customer data given in the practical sheet to train Logistic Regression with 80% training data, predict churn,) Tj T* (and print accuracy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 695.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 673.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 301.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 361.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_10\(\):) Tj T* (    data = {) Tj T* (        "Age": [25, 34, 45, 29, 50, 38, 42, 35, 48, 55],) Tj T* (        "Account_Length": [12, 24, 36, 18, 48, 30, 42, 24, 36, 60],) Tj T* (        "Monthly_Charges": [70, 90, 80, 100, 60, 80, 90, 70, 80, 100],) Tj T* (        "Churn": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]) Tj T* (    }) Tj T* (    df = pd.DataFrame\(data\)) Tj T* (    X = df[["Age", "Account_Length", "Monthly_Charges"]]) Tj T* (    y = df["Churn"]) Tj T*  T* (    X_train, X_test, y_train, y_test = train_test_split\() Tj T* (        X, y, test_size=0.2, random_state=42, stratify=y) Tj T* (    \)) Tj T*  T* (    model = LogisticRegression\(max_iter=2000\)) Tj T* (    model.fit\(X_train, y_train\)) Tj T*  T* (    predictions = model.predict\(X_test\)) Tj T* (    probabilities = model.predict_proba\(X_test\)[:, 1]) Tj T*  T* (    print\("Predicted churn labels:", predictions\)) Tj T* (    print\("Churn probabilities:", probabilities\)) Tj T* (    print\("Accuracy:", accuracy_score\(y_test, predictions\)\)) Tj T*  T* (practical_10\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 288.8661 cm
+Q
+q
+1 0 0 1 48.51969 260.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_10.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_10.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+69 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+70 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+71 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+72 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+73 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 75 0 R
+/F1-1 76 0 R
+/F2 9 0 R
+/F2-0 77 0 R
+/F2-1 78 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 4220
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 12) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Simple Linear Regression on Salary.csv with residual plot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Fit simple Linear Regression to all rows in Salary.csv. Plot the fitted line with data points and a residual plot.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset requirement:) Tj /F1 8 Tf ( Place Salary.csv beside the Python file. It must contain years_of_experience and salary columns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 258.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 417.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_11\(\):) Tj T* (    df = pd.read_csv\("Salary.csv"\)) Tj T* (    X = df[["years_of_experience"]]) Tj T* (    y = df["salary"]) Tj T*  T* (    model = LinearRegression\(\)) Tj T* (    model.fit\(X, y\)) Tj T* (    predictions = model.predict\(X\)) Tj T* (    residuals = y - predictions) Tj T*  T* (    print\("Slope:", model.coef_[0]\)) Tj T* (    print\("Intercept:", model.intercept_\)) Tj T*  T* (    plt.figure\(figsize=\(8, 5\)\)) Tj T* (    plt.scatter\(X, y, label="Actual data"\)) Tj T* (    plt.plot\(X, predictions, label="Best-fit line"\)) Tj T* (    plt.xlabel\("Years of Experience"\)) Tj T* (    plt.ylabel\("Salary"\)) Tj T* (    plt.title\("Simple Linear Regression \227 Salary"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (    plt.figure\(figsize=\(8, 5\)\)) Tj T* (    plt.scatter\(predictions, residuals\)) Tj T* (    plt.axhline\(y=0, linestyle="--"\)) Tj T* (    plt.xlabel\("Predicted Salary"\)) Tj T* (    plt.ylabel\("Residuals"\)) Tj T* (    plt.title\("Residual Plot"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_11\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 245.8661 cm
+Q
+q
+1 0 0 1 48.51969 217.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_11.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_11.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+75 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+76 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+77 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+78 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+79 0 obj
+<<
+/Contents 80 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 81 0 R
+/F1-1 82 0 R
+/F2 9 0 R
+/F2-0 83 0 R
+/F2-1 84 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+80 0 obj
+<<
+/Length 3905
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 13) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Elbow Method to find the optimal number of clusters \(14 points\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Generate 14 two-dimensional points, calculate K-Means inertia for several K values, and plot the Elbow curve.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 330.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 345.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_12\(\):) Tj T* (    X = np.array\([) Tj T* (        [1, 2], [2, 1], [2, 3], [3, 2],) Tj T* (        [8, 8], [9, 8], [8, 9], [9, 10],) Tj T* (        [15, 2], [16, 3], [15, 4], [17, 2],) Tj T* (        [5, 14], [6, 15]) Tj T* (    ]\)) Tj T*  T* (    wcss = []) Tj T* (    k_values = range\(1, 8\)) Tj T* (    for k in k_values:) Tj T* (        model = KMeans\(n_clusters=k, random_state=42, n_init=10\)) Tj T* (        model.fit\(X\)) Tj T* (        wcss.append\(model.inertia_\)) Tj T*  T* (    plt.plot\(list\(k_values\), wcss, marker="o"\)) Tj T* (    plt.xlabel\("Number of Clusters \(K\)"\)) Tj T* (    plt.ylabel\("WCSS / Inertia"\)) Tj T* (    plt.title\("Elbow Method \227 14 Data Points"\)) Tj T* (    plt.xticks\(list\(k_values\)\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_12\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 317.8661 cm
+Q
+q
+1 0 0 1 48.51969 289.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_12.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_12.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+81 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+82 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+83 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+84 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+85 0 obj
+<<
+/Contents 86 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 87 0 R
+/F1-1 88 0 R
+/F2 9 0 R
+/F2-0 89 0 R
+/F2-1 90 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+86 0 obj
+<<
+/Length 3887
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 14) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (K-Means on 300 generated samples for K = 2 to 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Generate 300 samples with make_blobs and show K-Means results for K values 2 through 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 370.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 305.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_13\(\):) Tj T* (    X, _ = make_blobs\(n_samples=300, centers=4, cluster_std=1.0,) Tj T* (                      random_state=42\)) Tj T*  T* (    fig, axes = plt.subplots\(2, 3, figsize=\(15, 9\)\)) Tj T* (    for ax, k in zip\(axes.ravel\(\), range\(2, 8\)\):) Tj T* (        model = KMeans\(n_clusters=k, random_state=42, n_init=10\)) Tj T* (        labels = model.fit_predict\(X\)) Tj T* (        ax.scatter\(X[:, 0], X[:, 1], c=labels, cmap="viridis", s=25\)) Tj T* (        ax.scatter\(model.cluster_centers_[:, 0], model.cluster_centers_[:, 1],) Tj T* (                   marker="X", s=180, edgecolor="black"\)) Tj T* (        ax.set_title\(f"KMeans with K={k}"\)) Tj T* (        ax.set_xlabel\("Feature 1"\)) Tj T* (        ax.set_ylabel\("Feature 2"\)) Tj T*  T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_13\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 357.8661 cm
+Q
+q
+1 0 0 1 48.51969 329.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_13.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_13.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+87 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+88 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+89 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+90 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+91 0 obj
+<<
+/Contents 92 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 93 0 R
+/F1-1 94 0 R
+/F2 9 0 R
+/F2-0 95 0 R
+/F2-1 96 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+92 0 obj
+<<
+/Length 4023
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 15) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (K-Means on a random dataset of 35 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Generate 35 random points and visualize how K-Means clustering changes for K values 2 through 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 354.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 321.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_14\(\):) Tj T* (    rng = np.random.default_rng\(42\)) Tj T* (    X = rng.uniform\(0, 20, size=\(35, 2\)\)) Tj T*  T* (    fig, axes = plt.subplots\(2, 3, figsize=\(15, 9\)\)) Tj T* (    for ax, k in zip\(axes.ravel\(\), range\(2, 8\)\):) Tj T* (        model = KMeans\(n_clusters=k, random_state=42, n_init=10\)) Tj T* (        labels = model.fit_predict\(X\)) Tj T* (        ax.scatter\(X[:, 0], X[:, 1], c=labels, cmap="tab10", s=55\)) Tj T* (        ax.scatter\(model.cluster_centers_[:, 0], model.cluster_centers_[:, 1],) Tj T* (                   marker="X", s=160, edgecolor="black"\)) Tj T* (        ax.set_title\(f"Random 35 points \227 K={k}"\)) Tj T* (        ax.set_xlabel\("X"\)) Tj T* (        ax.set_ylabel\("Y"\)) Tj T*  T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T* (    print\("Impact: increasing K creates more, smaller clusters and reduces ") Tj T* (          "within-cluster variation, but may over-segment the data."\)) Tj T*  T* (practical_14\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 341.8661 cm
+Q
+q
+1 0 0 1 48.51969 313.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_14.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_14.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+93 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+94 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+95 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+96 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+97 0 obj
+<<
+/Contents 98 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 99 0 R
+/F1-1 100 0 R
+/F2 9 0 R
+/F2-0 101 0 R
+/F2-1 102 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+98 0 obj
+<<
+/Length 3665
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 16) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (DBSCAN clustering using the make_moons dataset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Apply DBSCAN to a two-dimensional make_moons dataset and plot the clusters. Label -1 represents noise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 386.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 289.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_15\(\):) Tj T* (    X, _ = make_moons\(n_samples=300, noise=0.08, random_state=42\)) Tj T*  T* (    model = DBSCAN\(eps=0.2, min_samples=5\)) Tj T* (    labels = model.fit_predict\(X\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    plt.scatter\(X[:, 0], X[:, 1], c=labels, cmap="viridis", s=30\)) Tj T* (    plt.xlabel\("Feature 1"\)) Tj T* (    plt.ylabel\("Feature 2"\)) Tj T* (    plt.title\("DBSCAN Clustering \227 make_moons"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (    print\("Cluster labels \(-1 means noise\):", np.unique\(labels\)\)) Tj T*  T* (practical_15\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 373.8661 cm
+Q
+q
+1 0 0 1 48.51969 345.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_15.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_15.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+99 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+100 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+101 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+102 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+103 0 obj
+<<
+/Contents 104 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 105 0 R
+/F1-1 106 0 R
+/F2 9 0 R
+/F2-0 107 0 R
+/F2-1 108 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+104 0 obj
+<<
+/Length 3922
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 17) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (DBSCAN on columns 3 and 4 of a five-column random dataset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Generate five columns of random data, select columns 3 and 4, and apply DBSCAN with eps=5 and min_samples=5.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 354.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 321.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_16\(\):) Tj T* (    rng = np.random.default_rng\(42\)) Tj T* (    data = rng.uniform\(0, 20, size=\(100, 5\)\)) Tj T* (    df = pd.DataFrame\(data, columns=["Column1", "Column2", "Column3",) Tj T* (                                     "Column4", "Column5"]\)) Tj T* (    X = df[["Column3", "Column4"]].values) Tj T*  T* (    model = DBSCAN\(eps=5, min_samples=5\)) Tj T* (    labels = model.fit_predict\(X\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    plt.scatter\(X[:, 0], X[:, 1], c=labels, cmap="viridis", s=35\)) Tj T* (    plt.xlabel\("Column 3"\)) Tj T* (    plt.ylabel\("Column 4"\)) Tj T* (    plt.title\("DBSCAN on Random Dataset \(eps=5, min_samples=5\)"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (    print\("Unique labels \(-1 indicates noise\):", np.unique\(labels\)\)) Tj T*  T* (practical_16\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 341.8661 cm
+Q
+q
+1 0 0 1 48.51969 313.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_16.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_16.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+105 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+106 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+107 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+108 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+109 0 obj
+<<
+/Contents 110 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 111 0 R
+/F1-1 112 0 R
+/F2 9 0 R
+/F2-0 113 0 R
+/F2-1 114 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+110 0 obj
+<<
+/Length 3808
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 18) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (PCA on standardized Iris data \(4 dimensions to 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Standardize the Iris features, reduce them to two principal components, and plot the three classes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 362.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 313.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_17\(\):) Tj T* (    data = load_iris\(\)) Tj T* (    X = StandardScaler\(\).fit_transform\(data.data\)) Tj T* (    y = data.target) Tj T*  T* (    pca = PCA\(n_components=2\)) Tj T* (    X_pca = pca.fit_transform\(X\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    for i, name in enumerate\(data.target_names\):) Tj T* (        plt.scatter\(X_pca[y == i, 0], X_pca[y == i, 1], label=name\)) Tj T* (    plt.xlabel\("Principal Component 1"\)) Tj T* (    plt.ylabel\("Principal Component 2"\)) Tj T* (    plt.title\("PCA on Standardized Iris Dataset"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T* (    print\("Explained variance ratio:", pca.explained_variance_ratio_\)) Tj T*  T* (practical_17\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 349.8661 cm
+Q
+q
+1 0 0 1 48.51969 321.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_17.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_17.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+111 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+112 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+113 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+114 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+115 0 obj
+<<
+/Contents 116 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 117 0 R
+/F1-1 118 0 R
+/F2 9 0 R
+/F2-0 119 0 R
+/F2-1 120 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+116 0 obj
+<<
+/Length 4054
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 19) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 18) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Explore Iris and visualize PCA-reduced data in 2D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Print the Iris dataset shape and first rows, then visualize the two-dimensional PCA transformation by species.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 314.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 361.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_18\(\):) Tj T* (    data = load_iris\(\)) Tj T* (    df = pd.DataFrame\(data.data, columns=data.feature_names\)) Tj T* (    df["target"] = data.target) Tj T*  T* (    print\("Dataset shape:", df.shape\)) Tj T* (    print\(df.head\(\)\)) Tj T*  T* (    # Standardization is recommended before PCA because features have) Tj T* (    # different scales.) Tj T* (    X = StandardScaler\(\).fit_transform\(data.data\)) Tj T* (    pca = PCA\(n_components=2\)) Tj T* (    X_pca = pca.fit_transform\(X\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    for i, name in enumerate\(data.target_names\):) Tj T* (        plt.scatter\(X_pca[data.target == i, 0],) Tj T* (                    X_pca[data.target == i, 1], label=name\)) Tj T* (    plt.xlabel\("Principal Component 1"\)) Tj T* (    plt.ylabel\("Principal Component 2"\)) Tj T* (    plt.title\("Iris Dataset \227 PCA 2D"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_18\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 301.8661 cm
+Q
+q
+1 0 0 1 48.51969 273.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_18.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_18.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+117 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+118 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+119 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+120 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+121 0 obj
+<<
+/Contents 122 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 123 0 R
+/F1-1 124 0 R
+/F2 9 0 R
+/F2-0 125 0 R
+/F2-1 126 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+122 0 obj
+<<
+/Length 3781
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 20) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 19) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (PCA on 100 random samples with 3 features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Generate 100 rows with 3 random features, apply PCA to reduce to 2 dimensions, and display the transformed data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 362.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 313.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_19\(\):) Tj T* (    rng = np.random.default_rng\(42\)) Tj T* (    X = rng.random\(\(100, 3\)\)) Tj T*  T* (    pca = PCA\(n_components=2\)) Tj T* (    X_reduced = pca.fit_transform\(X\)) Tj T*  T* (    print\("Original shape:", X.shape\)) Tj T* (    print\("Reduced shape:", X_reduced.shape\)) Tj T* (    print\("First five reduced rows:\\n", X_reduced[:5]\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    plt.scatter\(X_reduced[:, 0], X_reduced[:, 1]\)) Tj T* (    plt.xlabel\("Principal Component 1"\)) Tj T* (    plt.ylabel\("Principal Component 2"\)) Tj T* (    plt.title\("PCA on 100 Random Samples \(3 Features to 2\)"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_19\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 349.8661 cm
+Q
+q
+1 0 0 1 48.51969 321.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_19.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_19.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+123 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+124 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+125 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+126 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+127 0 obj
+<<
+/Contents 128 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 129 0 R
+/F1-1 130 0 R
+/F2 9 0 R
+/F2-0 131 0 R
+/F2-1 132 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+128 0 obj
+<<
+/Length 3518
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 21) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (PCA on a selected dataset and explained variance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Apply PCA to the Wine dataset and print the explained variance ratio of every principal component.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 418.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 257.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_20\(\):) Tj T* (    data = load_wine\(\)) Tj T* (    X = StandardScaler\(\).fit_transform\(data.data\)) Tj T*  T* (    pca = PCA\(\)) Tj T* (    X_pca = pca.fit_transform\(X\)) Tj T*  T* (    print\("Transformed shape:", X_pca.shape\)) Tj T* (    print\("Explained variance ratio of all components:"\)) Tj T* (    print\(pca.explained_variance_ratio_\)) Tj T* (    print\("Total explained variance:", pca.explained_variance_ratio_.sum\(\)\)) Tj T*  T* (practical_20\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 405.8661 cm
+Q
+q
+1 0 0 1 48.51969 377.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_20.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_20.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+129 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+130 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+131 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+132 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+133 0 obj
+<<
+/Contents 134 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 135 0 R
+/F1-1 136 0 R
+/F2 9 0 R
+/F2-0 137 0 R
+/F2-1 138 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+134 0 obj
+<<
+/Length 3718
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 22) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (PCA on Iris using two principal components) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load Iris, initialize PCA with n_components=2, and plot the reduced dataset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 386.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 289.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_21\(\):) Tj T* (    iris = load_iris\(\)) Tj T* (    pca = PCA\(n_components=2\)) Tj T* (    X_pca = pca.fit_transform\(iris.data\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    scatter = plt.scatter\(X_pca[:, 0], X_pca[:, 1],) Tj T* (                          c=iris.target, cmap="viridis"\)) Tj T* (    plt.xlabel\("Principal Component 1"\)) Tj T* (    plt.ylabel\("Principal Component 2"\)) Tj T* (    plt.title\("PCA \227 Iris Dataset \(2 Components\)"\)) Tj T* (    plt.legend\(handles=scatter.legend_elements\(\)[0],) Tj T* (               labels=list\(iris.target_names\), title="Species"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_21\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 373.8661 cm
+Q
+q
+1 0 0 1 48.51969 345.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_21.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_21.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+135 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+136 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+137 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+138 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+139 0 obj
+<<
+/Contents 140 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 141 0 R
+/F1-1 142 0 R
+/F2 9 0 R
+/F2-0 143 0 R
+/F2-1 144 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+140 0 obj
+<<
+/Length 3715
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 23) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 22) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (LDA on the Wine dataset \(2 components\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load Wine, apply LDA with two components, and plot the reduced data with one color per class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 386.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 289.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_22\(\):) Tj T* (    data = load_wine\(\)) Tj T* (    lda = LinearDiscriminantAnalysis\(n_components=2\)) Tj T* (    X_lda = lda.fit_transform\(data.data, data.target\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    for i, name in enumerate\(data.target_names\):) Tj T* (        plt.scatter\(X_lda[data.target == i, 0],) Tj T* (                    X_lda[data.target == i, 1], label=name\)) Tj T* (    plt.xlabel\("Linear Discriminant 1"\)) Tj T* (    plt.ylabel\("Linear Discriminant 2"\)) Tj T* (    plt.title\("LDA \227 Wine Dataset \(2 Components\)"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_22\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 373.8661 cm
+Q
+q
+1 0 0 1 48.51969 345.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_22.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_22.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+141 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+142 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+143 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+144 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+145 0 obj
+<<
+/Contents 146 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 147 0 R
+/F1-1 148 0 R
+/F2 9 0 R
+/F2-0 149 0 R
+/F2-1 150 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+146 0 obj
+<<
+/Length 3806
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 24) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 23) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (LDA on the Breast Cancer dataset \(1 component\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load Breast Cancer, apply LDA with one component, and plot the one-dimensional representation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 378.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 297.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_23\(\):) Tj T* (    data = load_breast_cancer\(\)) Tj T* (    lda = LinearDiscriminantAnalysis\(n_components=1\)) Tj T* (    X_lda = lda.fit_transform\(data.data, data.target\)) Tj T*  T* (    plt.figure\(figsize=\(8, 5\)\)) Tj T* (    for i, name in enumerate\(data.target_names\):) Tj T* (        plt.scatter\(X_lda[data.target == i, 0],) Tj T* (                    np.zeros\(np.sum\(data.target == i\)\) + i,) Tj T* (                    label=name, alpha=0.7\)) Tj T* (    plt.xlabel\("Linear Discriminant 1"\)) Tj T* (    plt.yticks\([0, 1], list\(data.target_names\)\)) Tj T* (    plt.title\("LDA \227 Breast Cancer Dataset \(1 Component\)"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_23\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 365.8661 cm
+Q
+q
+1 0 0 1 48.51969 337.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_23.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_23.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+147 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+148 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+149 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+150 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+151 0 obj
+<<
+/Contents 152 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 153 0 R
+/F1-1 154 0 R
+/F2 9 0 R
+/F2-0 155 0 R
+/F2-1 156 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+152 0 obj
+<<
+/Length 3677
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 25) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (LDA on the Digits dataset \(2 components\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load Digits, apply LDA with two components, and plot the reduced dataset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 394.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 281.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_24\(\):) Tj T* (    data = load_digits\(\)) Tj T* (    lda = LinearDiscriminantAnalysis\(n_components=2\)) Tj T* (    X_lda = lda.fit_transform\(data.data, data.target\)) Tj T*  T* (    plt.figure\(figsize=\(9, 7\)\)) Tj T* (    scatter = plt.scatter\(X_lda[:, 0], X_lda[:, 1],) Tj T* (                          c=data.target, cmap="tab10", s=15\)) Tj T* (    plt.xlabel\("Linear Discriminant 1"\)) Tj T* (    plt.ylabel\("Linear Discriminant 2"\)) Tj T* (    plt.title\("LDA \227 Digits Dataset \(2 Components\)"\)) Tj T* (    plt.colorbar\(scatter, label="Digit class"\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_24\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 381.8661 cm
+Q
+q
+1 0 0 1 48.51969 353.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_24.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_24.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+153 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+154 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+155 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+156 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+157 0 obj
+<<
+/Contents 158 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 159 0 R
+/F1-1 160 0 R
+/F2 9 0 R
+/F2-0 161 0 R
+/F2-1 162 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+158 0 obj
+<<
+/Length 3704
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.796078 .835294 .882353 RG
+n 42.51969 34.01575 m 552.7559 34.01575 l S
+BT /F1 7.5 Tf 9 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 42.51969 21.25984 Tm (ML & AML \227 25 Practical Programs) Tj T* ET
+BT 1 0 0 1 524.8184 21.25984 Tm (Page 26) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 774.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (PRACTICAL 25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 744.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (LDA on the Iris dataset \(2 components\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 725.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Aim:) Tj /F1 9 Tf ( Load Iris, apply LDA with two components, and plot the reduced dataset by species.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.3701 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (Dataset:) Tj /F1 8 Tf ( This program uses a built-in scikit-learn dataset or generates data as described in the practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 686.3701 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Complete standalone Python code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 386.3701 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 4 289.6 Tm /F3 6.4 Tf 8 TL (import numpy as np) Tj T* (import pandas as pd) Tj T* (import matplotlib.pyplot as plt) Tj T*  T* (from sklearn.datasets import \() Tj T* (    load_iris, load_breast_cancer, load_wine, load_digits,) Tj T* (    make_classification, make_blobs, make_moons) Tj T* (\)) Tj T* (from sklearn.model_selection import train_test_split, LeaveOneOut) Tj T* (from sklearn.tree import DecisionTreeClassifier, plot_tree) Tj T* (from sklearn.svm import SVC) Tj T* (from sklearn.linear_model import LogisticRegression, LinearRegression) Tj T* (from sklearn.naive_bayes import GaussianNB) Tj T* (from sklearn.cluster import KMeans, DBSCAN) Tj T* (from sklearn.decomposition import PCA) Tj T* (from sklearn.discriminant_analysis import LinearDiscriminantAnalysis) Tj T* (from sklearn.preprocessing import StandardScaler) Tj T* (from sklearn.metrics import accuracy_score, ConfusionMatrixDisplay) Tj T*  T*  T* (def practical_25\(\):) Tj T* (    data = load_iris\(\)) Tj T* (    lda = LinearDiscriminantAnalysis\(n_components=2\)) Tj T* (    X_lda = lda.fit_transform\(data.data, data.target\)) Tj T*  T* (    plt.figure\(figsize=\(8, 6\)\)) Tj T* (    for i, name in enumerate\(data.target_names\):) Tj T* (        plt.scatter\(X_lda[data.target == i, 0],) Tj T* (                    X_lda[data.target == i, 1], label=name\)) Tj T* (    plt.xlabel\("Linear Discriminant 1"\)) Tj T* (    plt.ylabel\("Linear Discriminant 2"\)) Tj T* (    plt.title\("LDA \227 Iris Dataset \(2 Components\)"\)) Tj T* (    plt.legend\(\)) Tj T* (    plt.tight_layout\(\)) Tj T* (    plt.show\(\)) Tj T*  T* (practical_25\(\)) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 373.8661 cm
+Q
+q
+1 0 0 1 48.51969 345.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf .215686 .254902 .317647 rg (How to run:) Tj /F1 8 Tf ( Save this practical's code as ) Tj /F3 8 Tf (practical_25.py) Tj /F1 8 Tf (, then run ) Tj /F3 8 Tf (python practical_25.py) Tj /F1 8 Tf ( in the terminal. Install the libraries) Tj T* (once using the setup command on the first pages. If the program displays a graph, a plot window will appear.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 249.1368 813.5433 Tm
+(PRIYANG RAKHOLIYA) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 483.3959 21.25984 Tm
+(Priyang Rakholiya) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+159 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+160 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+161 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+162 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 163
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000299 00000 n 
+0000000348 00000 n 
+0000000640 00000 n 
+0000006470 00000 n 
+0000006577 00000 n 
+0000006684 00000 n 
+0000006791 00000 n 
+0000006903 00000 n 
+0000007016 00000 n 
+0000007129 00000 n 
+0000007235 00000 n 
+0000007531 00000 n 
+0000011397 00000 n 
+0000011505 00000 n 
+0000011613 00000 n 
+0000011726 00000 n 
+0000011839 00000 n 
+0000012135 00000 n 
+0000015847 00000 n 
+0000015955 00000 n 
+0000016063 00000 n 
+0000016176 00000 n 
+0000016289 00000 n 
+0000016585 00000 n 
+0000020555 00000 n 
+0000020663 00000 n 
+0000020771 00000 n 
+0000020884 00000 n 
+0000020997 00000 n 
+0000021293 00000 n 
+0000025154 00000 n 
+0000025262 00000 n 
+0000025370 00000 n 
+0000025483 00000 n 
+0000025596 00000 n 
+0000025892 00000 n 
+0000030006 00000 n 
+0000030114 00000 n 
+0000030222 00000 n 
+0000030335 00000 n 
+0000030448 00000 n 
+0000030744 00000 n 
+0000034468 00000 n 
+0000034576 00000 n 
+0000034684 00000 n 
+0000034797 00000 n 
+0000034910 00000 n 
+0000035206 00000 n 
+0000039314 00000 n 
+0000039422 00000 n 
+0000039530 00000 n 
+0000039643 00000 n 
+0000039756 00000 n 
+0000040052 00000 n 
+0000044118 00000 n 
+0000044226 00000 n 
+0000044334 00000 n 
+0000044447 00000 n 
+0000044560 00000 n 
+0000044856 00000 n 
+0000049583 00000 n 
+0000049691 00000 n 
+0000049799 00000 n 
+0000049912 00000 n 
+0000050025 00000 n 
+0000050321 00000 n 
+0000054516 00000 n 
+0000054624 00000 n 
+0000054732 00000 n 
+0000054845 00000 n 
+0000054958 00000 n 
+0000055254 00000 n 
+0000059527 00000 n 
+0000059635 00000 n 
+0000059743 00000 n 
+0000059856 00000 n 
+0000059969 00000 n 
+0000060265 00000 n 
+0000064223 00000 n 
+0000064331 00000 n 
+0000064439 00000 n 
+0000064552 00000 n 
+0000064665 00000 n 
+0000064961 00000 n 
+0000068901 00000 n 
+0000069009 00000 n 
+0000069117 00000 n 
+0000069230 00000 n 
+0000069343 00000 n 
+0000069639 00000 n 
+0000073715 00000 n 
+0000073823 00000 n 
+0000073931 00000 n 
+0000074044 00000 n 
+0000074157 00000 n 
+0000074456 00000 n 
+0000078174 00000 n 
+0000078282 00000 n 
+0000078391 00000 n 
+0000078505 00000 n 
+0000078619 00000 n 
+0000078921 00000 n 
+0000082897 00000 n 
+0000083006 00000 n 
+0000083115 00000 n 
+0000083229 00000 n 
+0000083343 00000 n 
+0000083645 00000 n 
+0000087507 00000 n 
+0000087616 00000 n 
+0000087725 00000 n 
+0000087839 00000 n 
+0000087953 00000 n 
+0000088255 00000 n 
+0000092363 00000 n 
+0000092472 00000 n 
+0000092581 00000 n 
+0000092695 00000 n 
+0000092809 00000 n 
+0000093111 00000 n 
+0000096946 00000 n 
+0000097055 00000 n 
+0000097164 00000 n 
+0000097278 00000 n 
+0000097392 00000 n 
+0000097694 00000 n 
+0000101266 00000 n 
+0000101375 00000 n 
+0000101484 00000 n 
+0000101598 00000 n 
+0000101712 00000 n 
+0000102014 00000 n 
+0000105786 00000 n 
+0000105895 00000 n 
+0000106004 00000 n 
+0000106118 00000 n 
+0000106232 00000 n 
+0000106534 00000 n 
+0000110303 00000 n 
+0000110412 00000 n 
+0000110521 00000 n 
+0000110635 00000 n 
+0000110749 00000 n 
+0000111051 00000 n 
+0000114911 00000 n 
+0000115020 00000 n 
+0000115129 00000 n 
+0000115243 00000 n 
+0000115357 00000 n 
+0000115659 00000 n 
+0000119390 00000 n 
+0000119499 00000 n 
+0000119608 00000 n 
+0000119722 00000 n 
+0000119836 00000 n 
+0000120138 00000 n 
+0000123896 00000 n 
+0000124005 00000 n 
+0000124114 00000 n 
+0000124228 00000 n 
+trailer
+<<
+/Size 163
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+124342
+%%EOF
